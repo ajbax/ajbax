@@ -1,5 +1,7 @@
-# Adi Bal-Mayel |
+<h1 align="center">Adi Bal-Mayel</h1>
+<h3 align="center">Sr. Platform Engineer | Solutions Architect</h3>
 
+<p align="left" size="20">
 I am a highly experienced Senior Platform Engineer and Solutions Architect with over a decade of success in leading and delivering impactful projects. I possess a proven track record of solving complex challenges and implementing innovative solutions that drive increased efficiency and significant cost savings.
 
 My expertise encompasses a wide range of critical areas, including:
