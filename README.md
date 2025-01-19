@@ -1,4 +1,4 @@
-<h1 align="center">Adi Bal-Mayel</h1>
+<h1 align="center">Adi Bal-Mayel ✨ </h1>
 <h3 align="center">Sr. Platform Engineer | Solutions Architect</h3>
 
 <p align="left" size="20">
@@ -14,11 +14,15 @@ My expertise encompasses a wide range of critical areas, including:
 - **Data Security**: Implementing comprehensive data security measures, including encryption at rest and in transit, to safeguard sensitive information.
 - **Infrastructure Security**: Securing complex infrastructure environments against cyber threats and vulnerabilities.
 
-I am a results-oriented professional with a strong technical foundation in technologies like Python, Terraform, Ansible, Docker, and Kubernetes, and a passion for delivering high-quality solutions that exceed expectations.
+🔋 I am a results-oriented professional with a strong technical foundation in technologies like Python, Terraform, Ansible, Docker, and Kubernetes, and a passion for delivering high-quality solutions that exceed expectations.
 
-## Technology stack
+## 🧰 Technology stack 🚀
 
-![AWS](resources/aws.png) &nbsp; &nbsp; &nbsp; ![Azure](resources/azure.png) &nbsp; &nbsp; &nbsp; ![GCP](resources/gcp.png) &nbsp; &nbsp; &nbsp; ![Terraform](resources/terraform.png) &nbsp; &nbsp; &nbsp; ![Ansible](resources/ansible.png) &nbsp; &nbsp; &nbsp; ![Linux](resources/linux.png) &nbsp; &nbsp; &nbsp; ![Bash](resources/bash.png) &nbsp; &nbsp; &nbsp; ![Git](resources/git.png) &nbsp; &nbsp; &nbsp; ![Kubernetes](resources/kubernetes.png) &nbsp; &nbsp; &nbsp; ![Docker](resources/docker.png) &nbsp; &nbsp; &nbsp; ![Python](resources/python.png) &nbsp; &nbsp; &nbsp; ![Java](resources/java.png) &nbsp; &nbsp; &nbsp; ![MySQL](resources/mysql.png) &nbsp; &nbsp; &nbsp; ![Postgres](resources/postgres.png) &nbsp; &nbsp; &nbsp; ![Kafka](resources/kafka.png) &nbsp; &nbsp; &nbsp;![Prometheus](resources/prometheus.png) &nbsp; &nbsp; &nbsp; ![OpenAi](resources/openai.png) &nbsp; &nbsp; &nbsp; ![Postgres](resources/network.png) &nbsp; &nbsp; &nbsp; ![Bootstrap](resources/bootstrap.png) &nbsp; &nbsp; &nbsp;
+![AWS](resources/aws.png) &nbsp; &nbsp; &nbsp; ![Azure](resources/azure.png) &nbsp; &nbsp; &nbsp; ![GCP](resources/gcp.png) &nbsp; &nbsp; &nbsp; ![Terraform](resources/terraform.png) &nbsp; &nbsp; &nbsp; ![Ansible](resources/ansible.png) &nbsp; &nbsp; &nbsp; ![Linux](resources/linux.png) &nbsp; &nbsp; &nbsp; ![Bash](resources/bash.png) &nbsp; &nbsp; &nbsp; ![Git](resources/git.png) &nbsp; &nbsp; &nbsp; ![Hadoop](resources/hadoop.png) &nbsp; &nbsp; &nbsp; ![Kubernetes](resources/kubernetes.png) &nbsp; &nbsp; &nbsp; ![Docker](resources/docker.png) &nbsp; &nbsp; &nbsp; ![Python](resources/python.png) &nbsp; &nbsp; &nbsp; ![Java](resources/java.png) &nbsp; &nbsp; &nbsp; ![MySQL](resources/mysql.png) &nbsp; &nbsp; &nbsp; ![Postgres](resources/postgres.png) &nbsp; &nbsp; &nbsp; ![Kafka](resources/kafka.png) &nbsp; &nbsp; &nbsp;![Prometheus](resources/prometheus.png) &nbsp; &nbsp; &nbsp; ![OpenAi](resources/openai.png) &nbsp; &nbsp; &nbsp; ![Postgres](resources/network.png) &nbsp; &nbsp; &nbsp; ![Bootstrap](resources/bootstrap.png) &nbsp; &nbsp; &nbsp;
+
+## ⚡️Projects 💻
+
+🧭 _under construction_ ⏱️
 
 <!--
 **ajbax/ajbax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
